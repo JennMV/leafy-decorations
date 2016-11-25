@@ -1,6 +1,6 @@
 html {
   font-family: Lora, serif;
-  color: #fff
+  color: #fff;
 }
 
 .masthead {
@@ -40,6 +40,7 @@ html {
   background-image: linear-gradient(to bottom, transparent, rgba(16, 52, 41, 0), rgba(16, 52, 41, .8)), url("../images/banner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: bottom center;
 }
 
 .banner-content {
